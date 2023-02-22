@@ -105,7 +105,7 @@ Excellent References for Badges:
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="https://linkedin.honeylizard.com/" target="_blank">
+  <a href="http://linkedin.honeylizard.com" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />
   </a>
 </p>
