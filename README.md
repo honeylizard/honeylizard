@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me:
 
-🙋‍♂️ I am a graduate student of Georgia Institute of Technology
+🙋‍♂️ I am an alumni of Georgia Institute of Technology
 
 😄 Pronouns: She/Her
 
